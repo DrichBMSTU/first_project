@@ -1,0 +1,5 @@
+# virtual environment
+my_env/
+
+# text-files
+tmp*.txt
